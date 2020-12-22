@@ -1,0 +1,10 @@
+.imagelayout {
+	display: block;
+	width: 0;
+	padding: 50%;
+	height: auto;
+}	
+
+.cardstyles{
+	width: 60%;
+}
